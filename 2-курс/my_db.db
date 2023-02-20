@@ -1,0 +1,11 @@
+"CREATE TABLE students("
+        "id INTEGER PRIMARY KEY AUTOINCREMENT,"
+        "fullname VARCHAR (200) NOT NULL,"
+        "mark DOUBLE (5,2) NOT NULL DEFAULT 0.0,"
+        "hobby TEXT DEFOULT NULL,"
+        "birth_date DATE NOT NULL,"
+        "is_married BOOLEAN DEFOULT FALSE)"
+
+
+
+        
